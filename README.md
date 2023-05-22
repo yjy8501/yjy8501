@@ -5,6 +5,6 @@
 ### 📊 Stats
 <div>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=yjy8501&show_icons=true&theme=tokyonight">
-<img height="150" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yjy8501">
+<img height="140" src="https://github-readme-stats.vercel.app/api?username=yjy8501&show_icons=true&theme=tokyonight">
+<img height="140" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yjy8501">
 </div>
