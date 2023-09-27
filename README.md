@@ -1,8 +1,8 @@
 # 자기소개
 안녕하세요!! '소통'도 잘하는 주니어 개발자 양재용입니다.
-   
-   
-   
+<br>
+<br>
+<br>
 
 # 🛠 Tech Stacks
 
@@ -17,6 +17,7 @@
 
 ### Devpos
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+<br>
 <br>
 <br>
 
