@@ -1,7 +1,7 @@
 ### 🛠 Languages and Tools
 <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?logo=Java&logoColor=white"/>
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 ### 📊 Stats
 <div>
