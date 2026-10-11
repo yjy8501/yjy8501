@@ -1,37 +1,58 @@
-# 자기소개
-**실제 사용자 트래픽과 데이터 흐름을 고려한 구조 설계와 성능 개선에 관심을 갖고 꾸준히 학습하고 있는 백엔드 개발자입니다.**
+<div align="center">
 
-**Spring Boot 기반의 REST API와 Redis, QueryDSL 등을 활용한 개발 경험이 있으며,**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:FDBA74&height=200&section=header&text=%EC%96%91%EC%9E%AC%EC%9A%A9&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Backend%20Developer&descSize=20&descAlignY=58" width="100%" alt="양재용 · Backend Developer"/>
 
-**단순한 기능 구현을 넘어 안정성과 유지보수성을 함께 고려하려 노력하고 있습니다.** 
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=20&pause=1800&color=F97316&center=true&vCenter=true&width=720&lines=%EC%8A%A4%ED%8E%99%EC%9C%BC%EB%A1%9C+%EB%A8%BC%EC%A0%80+%ED%95%A9%EC%9D%98%ED%95%98%EA%B3%A0%2C+AI%EB%A1%9C+%EA%B5%AC%ED%98%84%ED%95%98%EA%B3%A0%2C+%EA%B2%80%EC%A6%9D%EC%9C%BC%EB%A1%9C+%ED%92%88%EC%A7%88%EC%9D%84+%EC%A7%80%ED%82%B5%EB%8B%88%EB%8B%A4;%EB%8F%88%EA%B3%BC+%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80+%EC%96%B4%EA%B8%8B%EB%82%98%EC%A7%80+%EC%95%8A%EB%8A%94+%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4" alt="스펙으로 먼저 합의하고, AI로 구현하고, 검증으로 품질을 지킵니다"/>
 
-**조회수, 인기 콘텐츠, 알림 등 실시간 데이터가 많은 서비스 환경에서 성능 병목을 개선해본 경험을 바탕으로,** 
+<a href="mailto:yjy850146@gmail.com"><img src="https://img.shields.io/badge/Email-yjy850146%40gmail.com-F97316?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://apps.apple.com/kr/app/%EA%B1%B0%EB%8B%90%EA%B0%95/id6809789351"><img src="https://img.shields.io/badge/App%20Store-%EA%B1%B0%EB%8B%90%EA%B0%95-0D96F6?style=flat-square&logo=appstore&logoColor=white"/></a>
 
-**앞으로도 더 나은 코드와 구조를 고민하는 개발자로 성장해나가고자 합니다.**
-<br>
-<br>
-<br>
-
-# 🛠 Tech Stacks
-
-### Languages 
-  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-
-### Back-END
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-
-### Database
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-
-
-
-### DevOps
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
-<br>
-<br>
-<br>
-
-# 📊 Stats
-<div>
-<img height="140" src="https://github-readme-stats.vercel.app/api?username=yjy8501&show_icons=true&theme=tokyonight">
 </div>
+
+## About
+
+- **스펙 주도 개발 + AI** — 요구사항·검증 기준과 설계 결정(ADR)을 먼저 확정하고, AI로 구현한 뒤 스펙 대조 리뷰·정적 분석·통합 테스트로 검증합니다
+- **결제 정합성** — 이중 결제 방지(조건부 갱신·승인 선점), API 멱등성 공통 계층, PG 연동, 정기결제 배치를 설계·구현했습니다
+- **운영** — 사내에 없던 모니터링(Elastic APM)을 직접 구축해 장애와 슬로우 쿼리를 찾아 개선했고, 개인 서비스를 App Store에 출시해 운영하고 있습니다
+
+## Tech Stack
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,spring,postgres,mysql,redis,aws,docker,nginx,githubactions,gradle" alt="Kotlin, Java, Spring, PostgreSQL, MySQL, Redis, AWS, Docker, nginx, GitHub Actions, Gradle"/>
+
+![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![QueryDSL](https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square)
+![Resilience4j](https://img.shields.io/badge/Resilience4j-333333?style=flat-square)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-291A3F?style=flat-square&logo=testcontainers&logoColor=white)
+![Elastic APM](https://img.shields.io/badge/Elastic%20APM-005571?style=flat-square&logo=elastic&logoColor=white)
+
+## Experience
+
+| 기간 | 회사 | 한 일 |
+|---|---|---|
+| 2026.07 – 2026.11 | **오코랩스** · 백엔드 | 보안업체 S사 구독 서비스몰 결제·구독 백엔드 — 이중 결제 방지, 멱등성 공통 계층, PG 연동, 정기결제 배치, 환불 도메인 단독 설계 |
+| 2024.08 – 2025.11 | **피피프렌즈** · 백엔드 | 반려동물 소셜 커뮤니티 API 서버 개발·운영 — 이벤트 기반 알림(API 응답 약 30% 개선), APM 모니터링 구축, 데드락·커넥션 풀 고갈 해결 |
+| 2024.07 – 2024.08 | **Plea** · 백엔드 인턴 | Kafka·MSA 환경 경험, QR 요청 로그·엑셀 다운로드 API 개발 |
+
+## Project — 거닐강
+
+강원도 감성 키워드 기반 AI 여행 코스 추천 서비스 · 2026 한국관광공사 관광데이터 활용 공모전 출품 · 백엔드 1인 개발
+
+- 골든셋 기반 검색 품질 평가 도구 — hit@10 97% → 질의 확장 적용 후 100%
+- OpenAI Structured Output + 후보 장소 ID enum으로 LLM이 없는 장소를 지어내는 환각 차단
+- TourAPI 일일 증분 동기화와 임베딩 입력 해시로 외부 호출·AI 비용 최소화
+- 배포 후 자동 검증 — healthcheck → 설정 파일 대조 → 공개 URL 스모크 체크
+
+<a href="https://apps.apple.com/kr/app/%EA%B1%B0%EB%8B%90%EA%B0%95/id6809789351"><img src="https://img.shields.io/badge/App%20Store-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-0D96F6?style=flat-square&logo=appstore&logoColor=white"/></a>
+<a href="https://geonilgang-frontend.vercel.app"><img src="https://img.shields.io/badge/Web-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+
+<sub>서비스 운영 중이라 레포는 비공개입니다.</sub>
+
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yjy8501/yjy8501/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/yjy8501/yjy8501/output/github-snake.svg" alt="contribution snake"/>
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDBA74,100:F97316&height=100&section=footer" width="100%"/>
